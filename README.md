@@ -12,5 +12,6 @@ Step 3: `pip install -r requirements.txt`
 Step 4: `py main.py`
 
 If you get this screen, you're ready to go. 
-![image](https://user-images.githubusercontent.com/106101646/177014051-56f872e8-ca19-4218-a703-c93aeefff07c.png)
+![image](https://user-images.githubusercontent.com/106101646/177014073-39b7d576-28b3-4f67-ac08-93c44f3e5ea5.png)
+
 
