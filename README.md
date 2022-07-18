@@ -5,7 +5,7 @@ How to run?
 
 Step 1: `git clone https://github.com/xtasy94/xtasyservercloner.git`
 
-Step 2: `cd cd xtasyservercloner`
+Step 2: `cd xtasyservercloner`
 
 Step 3: `pip install -r requirements.txt`
 
