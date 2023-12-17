@@ -32,7 +32,7 @@ __  _| |_ __ _ ___ _   _
                                                                                           
                                                                                                     
 {Style.RESET_ALL}
-                                                            {Fore.MAGENTA}Developed by: xtasy#9241.{Style.RESET_ALL}
+                                                            {Fore.MAGENTA}Developed by: notxtasy.{Style.RESET_ALL}
         """)
 token = input(f'Enter your token:\n >')
 guild_s = input('Enter guild id you want to copy:\n >')
